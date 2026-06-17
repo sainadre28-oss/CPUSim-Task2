@@ -1,0 +1,15 @@
+T2 finished. Memory Latency: 260
+T4 finished. Memory Latency: 8
+T8 finished. Memory Latency: 8
+T10 finished. Memory Latency: 12
+T14 finished. Memory Latency: 12
+T1 finished. Memory Latency: 12
+T5 finished. Memory Latency: 16
+T6 finished. Memory Latency: 12
+T11 finished. Memory Latency: 16
+T12 finished. Memory Latency: 12
+T13 finished. Memory Latency: 16
+T3 finished. Memory Latency: 16
+T7 finished. Memory Latency: 16
+T9 finished. Memory Latency: 16
+T15 finished. Memory Latency: 20
